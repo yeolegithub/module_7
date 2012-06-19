@@ -1,6 +1,6 @@
 <?php
 
 
-$asdf
+$asdf;//fixed
 
 ?>
