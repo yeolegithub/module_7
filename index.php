@@ -2,6 +2,6 @@
 
 
 $asdf;//fixed
-$this=$that;//I am not sure this is right.
+$this=$that;//this is just what I was talking about
 
 ?>
