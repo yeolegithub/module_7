@@ -12,5 +12,9 @@ if($shownewfeatures==ture)
     $featureB = "Extra Cool Stuff";//I like this better
     //I need updates!!!
     $a=$b;//minor change
+    if($load==true)
+    {
+        //do updates
+    }
 }
 ?>
