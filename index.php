@@ -8,6 +8,7 @@ $branchedoff=true;
 if($shownewfeatures==ture)
 {
     //show features
-    $featureA = "cool stuff";
+    $featureA = "cool stuff";//awesome
+    $featureB = "Extra Cool Stuff";
 }
 ?>
