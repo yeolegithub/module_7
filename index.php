@@ -10,6 +10,6 @@ if($shownewfeatures==ture)
     //show features
     $featureA = "cool stuff";//awesome
     $featureB = "Extra Cool Stuff";//I like this better
-
+    //I need updates!!!
 }
 ?>
