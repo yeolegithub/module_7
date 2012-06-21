@@ -11,5 +11,9 @@ if($shownewfeatures==ture)
     $featureA = "cool stuff";//awesome
     $featureB = "Extra Cool Stuff";//I like this better
     //I need updates!!!
+    if($load==true)
+    {
+        //do updates
+    }
 }
 ?>
