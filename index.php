@@ -9,6 +9,6 @@ if($shownewfeatures==ture)
 {
     //show features
     $featureA = "cool stuff";
-    $featureB = "Boring Text";
+    $featureB = "Boring Text";//just so something is there
 }
 ?>
