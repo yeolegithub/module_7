@@ -8,7 +8,8 @@ $branchedoff=true;
 if($shownewfeatures==ture)
 {
     //show features
-    $featureA = "cool stuff";
-    $featureB = "Boring Text";//just so something is there
+    $featureA = "cool stuff";//awesome
+    $featureB = "Extra Cool Stuff";//I like this better
+
 }
 ?>
