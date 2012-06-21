@@ -16,7 +16,11 @@ if($shownewfeatures==ture)
     {
         //do updates
     }
-
     $g_feature=false;
+    //now let's work on large scale features
+    function loadFeatures($a,$b,$c)
+    {
+        $show=true;
+    }
 }
 ?>
