@@ -16,5 +16,7 @@ if($shownewfeatures==ture)
     {
         //do updates
     }
+
+    $g_feature=false;
 }
 ?>
